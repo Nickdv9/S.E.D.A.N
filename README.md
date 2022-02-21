@@ -1,5 +1,5 @@
 
-# SEDAN
+# Speech Emotion Detection and Analysis using Neural Networks (S.E.D.A.N)
  Our project is based on the idea of detecting different emotions from a range of different audio files. Our primary focus is to > detect a variety of basic human emotions such as happiness, sadness, anger, disgust, etc.
 
 The main objective of our project is to distinguish between the various emotions and implement the different models used for the same.
